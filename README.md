@@ -2,6 +2,12 @@
 
 ## 💻 Python Developer | Cybersecurity Enthusiast
 
+## 📊 GitHub Stats
+
+![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijamohammad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijamohammad&layout=compact&theme=tokyonight)
+
 Welcome to my GitHub!
 
 I'm passionate about building real-world software projects, learning new technologies, and improving my programming skills one mission at a time.
