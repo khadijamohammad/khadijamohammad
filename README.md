@@ -17,7 +17,18 @@ Welcome to my GitHub!
 I'm passionate about building real-world software projects, learning new technologies, and improving my programming skills one mission at a time.
 
 ---
+## 🚀 Featured Projects
 
+<div align="center">
+
+| Project | Description | Key Tech / Skills |
+| :--- | :--- | :--- |
+| 🛡️ **[CyberRecon Enterprise](https://github.com/khadijamohammad/my-portfolio/tree/master/CyberRecon_V5)** | Enterprise-grade EDR monitoring & incident response framework with real-time process monitoring and WebSocket telemetry. | `Python` `FastAPI` `WebSockets` `MITRE ATT&CK` `Async IO` |
+| 🌐 **[NetSentinel](https://github.com/khadijamohammad/my-portfolio/tree/master/NetSentinel)** | Asynchronous network reconnaissance and CVE correlation engine featuring automated HTML report generation. | `Python` `AsyncIO` `Socket Programming` `Security Automation` `pytest` |
+
+</div>
+
+---
 ## 🚀 Current Projects
 
 - 💻 KHADIJA OS
